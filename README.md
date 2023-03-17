@@ -44,20 +44,6 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px">
 </p>
 
- ### - What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
-
-
-
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️ in Turkey</p>
