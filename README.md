@@ -17,9 +17,9 @@
   <h3> I'm 24 years old Self-taught Full-Stack developer from Turkey.</h3>
 </p>
 
- - 🥀 Learning .NET & C#
+ -  Learning .NET & C#
  
- - I do fullstack and a bit of everything :heart:
+ - I do fullstack and a bit of everything 
  
  - All About living life at its best.
  
